@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "Portfolio Site ",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": " Static Web ",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/shantanu-777/SATechnical-Onboarding-Portfolio-Web-",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://shantanu-7777.github.io/SATechnical-Onboarding-Portfolio-Web-'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
