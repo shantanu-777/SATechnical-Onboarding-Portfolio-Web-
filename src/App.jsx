@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Shantanu Modhave",
   title: "Data Analyst",
-  email: "shantanumodhave7@gail.com",
+  email: "shantanumodhave7@gmail.com",
   gitHub: "shantanu-7777",
   instagram: "shantanu.modhave",
   linkedIn: "Shantanu Modhave",

@@ -21,11 +21,12 @@ import image from "../images/mosaic.svg";
 const imageAltText = "purple and blue abstract background";
 
 /**
- * Sort description that expands on your title on the Home component.
- */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
+  "During my academic journey, I gained practical experience in web development through an internship. I also hold the position of Microsoft Student Learn Ambassador and actively collaborate on projects with a team. Additionally, I have completed 2 certifications from IBM! I have been actively involved in the IMUN community and various clubs within my university, where I had the opportunity to lead them for a tenure"
+  
+  "Apart from academics, I am an avid reader with a particular interest in productive books and thrilling novels. Recently, I completed Atomic Habits by James Clear and have started reading The Subtle Art of Not Giving a F*ck by Mark Manson. I am a fast learner who enjoys exploring and acquiring new knowledge to foster personal development. Currently, I am working on improving my French language skills."
+  
+  "I am looking for an opportunity to work as a Data Analyst and contribute to the organization's growth. I am open to learning new skills and technologies and am willing to relocate. I am a hardworking and dedicated individual who is always ready to take on new challenges. I am confident that I will be an asset to your organization and look forward to hearing from you soon."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -60,8 +61,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
-        <p className="large">{description}</p>
+        <h2>About Myself</h2>        
         <hr />
         <ul
           style={{
