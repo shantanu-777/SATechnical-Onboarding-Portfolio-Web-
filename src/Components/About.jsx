@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hello, I'm Shantanu Modhave, a computer science student in my 3rd year at VIT, Bhopal University, located near Pune city in the Ahmednagar District of Maharashtra, India. I have a strong background in C++ and Data Structures and Algorithms (DSA). I am passionate about becoming a data analyst and currently honing my skills in Excel and Power BI";
 
 const About = () => {
   return (
